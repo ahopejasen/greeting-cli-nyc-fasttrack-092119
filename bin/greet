@@ -5,5 +5,5 @@ puts "Hi! I'm HAL, what's your name?"
 username=gets.strip
 
 
-#greeting
+greeting(username)
 # code your CLI here!
